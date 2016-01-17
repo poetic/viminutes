@@ -3,5 +3,7 @@ http://poetic.github.io/viminutes/
 
 # Contribute
 - Please use the gh-pages as the master branch
-- Please get to know jekyll https://help.github.com/articles/using-jekyll-with-pages/
-- You can check your pages by ```bundle exec jekyll serve```
+- setup your working env by ```bundle```
+- You can check your pages by ```bundle exec jekyll serve --watch```
+- To add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext (we prefer .markdown)
+- Please get to know jekyll http://jekyllrb.com/
