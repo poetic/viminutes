@@ -3,7 +3,7 @@ title: Viminutes
 email: yang2007chun@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Vim seminars in about 10 minutes.
-baseurl: "/viminutes/"
+baseurl: "/viminutes"
 url: "http://poetic.github.io"
 twitter_username: PoeticSystems
 github_username:  poetic
