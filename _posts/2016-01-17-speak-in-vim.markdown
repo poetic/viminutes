@@ -3,7 +3,7 @@ layout: post
 title:  "Speak in vim"
 date:   2016-01-17 10:30:01
 ---
-## Problems
+## Problem
 - delete a chunk of code
 
 {% highlight javascript %}
@@ -36,7 +36,7 @@ var user = {
 
 - copy a whole file
 
-## Concepts
+## Solution
 - basic vim **syntax**:
   - `<command><text modifier><text object>`
   - `<command><motion>` (NOTE: incomming!)
@@ -58,7 +58,7 @@ var user = {
   - t (html tag)
   - c (chunk) [vim-textobj-javascript](https://github.com/poetic/vim-textobj-javascript)
 
-## Exercises
+## Exercise
 - delete a chunk of code
 {% highlight javascript %}
 // FROM
