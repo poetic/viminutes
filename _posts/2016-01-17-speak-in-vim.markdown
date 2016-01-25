@@ -44,6 +44,7 @@ var user = {
   - c (change)
   - d (delete)
   - y (yank)
+  - gc (toggle comment) [vim-commentary](https://github.com/tpope/vim-commentary)
 - text modifiers
   - a (around)
   - i (inside)
@@ -51,8 +52,10 @@ var user = {
 - text objects
   - w (word)
   - p (paragraph)
+  - e (entire file) [vim-textobj-entire](https://github.com/kana/vim-textobj-entire)
   - {
   - \[
+  - t (html tag)
   - c (chunk) [vim-textobj-javascript](https://github.com/poetic/vim-textobj-javascript)
 
 ## Exercises
