@@ -53,6 +53,7 @@ var user = {
   - w (word)
   - p (paragraph)
   - e (entire file) [vim-textobj-entire](https://github.com/kana/vim-textobj-entire)
+  - i (same indentation)
   - {
   - \[
   - t (html tag)
