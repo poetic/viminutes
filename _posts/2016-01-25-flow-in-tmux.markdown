@@ -24,6 +24,7 @@ tmux sessions and tmuxinator to the rescue!
 Let's follow an example of a typical usecase of tmux and tmuxinator.  
 We are going to create several sessions and switch between them.
 
+1. `gem install tmuxinator`
 1. C-a (control-a) *d* (detach from tmux)
 1. Copy and paste these commands in your console (they all start with tm)
 
@@ -65,5 +66,5 @@ We are going to create several sessions and switch between them.
 1. use tml to list all tmux session
 1. paste these aliases to `~/.stack.d/tmux.zsh`
 
-# Exercise
+## Exercise
 create multiple tmux sessions using tmuxinator, switch between, then kill them.
